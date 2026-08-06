@@ -1,0 +1,7 @@
+{
+  "name": "tools",
+  "description": "`.claude/settings*.json`の整形などリポジトリの地味な後始末を自動化するhookと、動画・PDF・Excel変換や会計年度・四半期算出、AIキャッチアップ日記の記録を支援するスキルをまとめた汎用ツール集。",
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
