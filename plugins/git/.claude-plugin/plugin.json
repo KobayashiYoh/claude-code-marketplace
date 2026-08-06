@@ -1,0 +1,7 @@
+{
+  "name": "git",
+  "description": "汎用的なGit操作を支援するスキル/hook集。コミットメッセージ作成、ブランチ作成、worktree作成のスキルに加え、Azure DevOps固有のパイプライン失敗解析(analyze-pipeline)・PRの双方向レビュー(review-code)・PR内容説明(explain-pr)のスキルを含む。また、gh/adoプラグイン等のPR作成・PR参照スキルから参照される、プラットフォーム非依存のPR作成共通方針(pr-common-policy)とPR特定共通方針(pr-lookup-policy)、スコープ付きprefix(例: feat(scope):)のコミットメッセージをブロックするhook、git stashに--include-untrackedオプション漏れを検知するhook、ブランチ作成時に保護ブランチへの直接作成と命名規則違反を検知するhook、git push検知時にAzure DevOpsのPRタイトル・説明文の更新要否を確認させるhookを含む。",
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
