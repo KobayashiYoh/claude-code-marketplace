@@ -1,0 +1,6 @@
+{
+  "name": "kaizen",
+  "description": "Claude Codeでの詰まり・不満をきっかけに、claude-code-marketplace自体のskill/hookを新規作成・修正するスキル集。",
+  "version": "0.1.0",
+  "skills": "./skills/"
+}
