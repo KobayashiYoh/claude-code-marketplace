@@ -1,0 +1,6 @@
+{
+  "name": "figma",
+  "description": "Figma APIから指定ファイル/ノードのコンポーネント情報を取得する汎用スキル集。",
+  "version": "0.1.0",
+  "skills": "./skills/"
+}
