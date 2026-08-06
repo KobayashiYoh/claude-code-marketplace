@@ -1,0 +1,7 @@
+{
+  "name": "flutter",
+  "description": "Flutterプロジェクトの依存パッケージ更新・SDK追従・pubspec変更時の自動追従を支援するスキル/hook集。",
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
