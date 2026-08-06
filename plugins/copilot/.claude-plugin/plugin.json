@@ -1,0 +1,6 @@
+{
+  "name": "copilot",
+  "description": "`.claude/skills/`を単一ソースとして、他のAIツール(GitHub Copilot等)向けの参照ファイルをDRYに同期生成するスキル集。",
+  "version": "0.1.0",
+  "skills": "./skills/"
+}
