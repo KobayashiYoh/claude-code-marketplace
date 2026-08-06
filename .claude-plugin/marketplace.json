@@ -1,0 +1,41 @@
+{
+  "name": "ai-common",
+  "owner": {
+    "name": "KobayashiYoh",
+    "url": "https://github.com/KobayashiYoh"
+  },
+  "metadata": {
+    "description": "会社に依存しない汎用のClaude Codeスキル/フックをまとめた個人用マーケットプレイス",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "git",
+      "source": "./plugins/git/"
+    },
+    {
+      "name": "copilot",
+      "source": "./plugins/copilot/"
+    },
+    {
+      "name": "tools",
+      "source": "./plugins/tools/"
+    },
+    {
+      "name": "flutter",
+      "source": "./plugins/flutter/"
+    },
+    {
+      "name": "figma",
+      "source": "./plugins/figma/"
+    },
+    {
+      "name": "playwright",
+      "source": "./plugins/playwright/"
+    },
+    {
+      "name": "kaizen",
+      "source": "./plugins/kaizen/"
+    }
+  ]
+}
