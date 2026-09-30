@@ -1,6 +1,5 @@
 {
   "name": "playwright",
   "description": "Playwright MCPを使ったブラウザ操作(操作デモ動画の撮影、スクリーンショット撮影)を支援するサブエージェント集。",
-  "version": "0.1.0",
-  "agents": "./agents/"
+  "version": "0.1.1"
 }
