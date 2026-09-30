@@ -1,0 +1,7 @@
+{
+  "name": "research",
+  "description": "Web・文献・市場・技術などの調査を体系的に進めるためのスキル/サブエージェント集。調査の標準ワークフロー(research)、調査方法を設計するサブエージェント(main-researcher)、計画に従って情報収集するサブエージェント(sub-researcher)、両サブエージェントが共通参照する調査ルール(research-rule.md)で構成する。",
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
